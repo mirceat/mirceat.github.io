@@ -9,3 +9,8 @@
     rdfs:label "Mircea Trifan’s FOAF profile"@en;
     foaf:maker :me;
     foaf:primaryTopic :me.
+    
+# Personal details
+
+:me a foaf:Person;
+    foaf:name  "Mircea Trifan"@en.    
