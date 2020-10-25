@@ -1,10 +1,10 @@
-@prefix : <https://mirceat.com/profile/#>.
+@prefix : <https://mirceat.com/profile.ttl>.
 @prefix foaf: <http://xmlns.com/foaf/0.1/>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 
 # Profile document
 
-<https://mirceat.com/profile/>
+<https://mirceat.com/>
     a foaf:Document, foaf:PersonalProfileDocument;
     rdfs:label "Mircea Trifan’s FOAF profile"@en;
     foaf:maker :me;
